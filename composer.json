@@ -1,0 +1,21 @@
+  
+{
+  "name": "yyggg/rbac",
+  "description": "这个扩展RBAC权限扩展。使用本扩展能够快速的将RBAC权限控制器模块引入到自己的系统中。",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "yyggg",
+      "email": "260101081@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "yyggg\\rbac\\": "src/"
+    }
+  }
+}
